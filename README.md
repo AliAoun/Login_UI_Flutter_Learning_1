@@ -1,6 +1,9 @@
-# login_flutter_learing1
+# login_flutter_learing_1
 
-A new Flutter project.
+## Screenshot of the following App:
+
+<img src="https://github.com/AliAoun/Login_UI_Flutter_Learning_1/assets/80461232/a65f4a8f-b395-42c8-80b1-5082bc7bf7d3" width="30%" height="30%">
+
 
 ## Getting Started
 
